@@ -1,0 +1,9 @@
+This is problem 1 part b and the file is named homework1b
+
+I wrote the following commands to run the file:
+
+g++ homework1b.c -o homework1b
+
+./homework1b &
+
+ps -l

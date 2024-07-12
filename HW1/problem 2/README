@@ -1,0 +1,7 @@
+This is problem 2 and the file is named pipes.c
+I wrote the following commands to execute the file:
+
+g++ pipes.c -o pipes
+
+./pipes 5 ls -la
+

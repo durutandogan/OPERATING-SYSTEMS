@@ -1,0 +1,6 @@
+This is Problem 1 Part a and the file is named homework.
+I wrote the following commands to run the file:
+
+g++ homework.c -o homework
+
+./homework 5
